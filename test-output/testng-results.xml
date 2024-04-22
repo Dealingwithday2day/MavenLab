@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-21T13:03:16 CDT" name="Suite" finished-at="2024-04-21T13:03:34 CDT" duration-ms="17567">
+    <groups>
+    </groups>
+    <test started-at="2024-04-21T13:03:16 CDT" name="Test" finished-at="2024-04-21T13:03:34 CDT" duration-ms="17567">
+      <class name="scenarios.CheckBoxandRadioBtns">
+        <test-method signature="handlingChkBoxRadBtns()[pri:0, instance:scenarios.CheckBoxandRadioBtns@3427b02d]" started-at="2024-04-21T13:03:16 CDT" name="handlingChkBoxRadBtns" finished-at="2024-04-21T13:03:27 CDT" duration-ms="11384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingChkBoxRadBtns -->
+      </class> <!-- scenarios.CheckBoxandRadioBtns -->
+      <class name="scenarios.MouseActions">
+        <test-method signature="draAnddrop()[pri:0, instance:scenarios.MouseActions@7193666c]" started-at="2024-04-21T13:03:28 CDT" name="draAnddrop" finished-at="2024-04-21T13:03:30 CDT" duration-ms="2300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- draAnddrop -->
+      </class> <!-- scenarios.MouseActions -->
+      <class name="scenarios.SwitchWindows">
+        <test-method signature="switchWin()[pri:0, instance:scenarios.SwitchWindows@20deea7f]" started-at="2024-04-21T13:03:30 CDT" name="switchWin" finished-at="2024-04-21T13:03:34 CDT" duration-ms="3850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- scenarios.SwitchWindows -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
